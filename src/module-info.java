@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author iuryd
+ *
+ */
+module dioProjetoJava {
+}
